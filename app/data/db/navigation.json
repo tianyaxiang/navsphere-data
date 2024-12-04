@@ -1,3 +1,18 @@
 {
-  "navigationItems": []
+  "navigationItems": [
+    {
+      "id": "1733328069046",
+      "title": "新分类",
+      "icon": "linecons-star",
+      "subCategories": [],
+      "items": []
+    },
+    {
+      "id": "1733328069165",
+      "title": "新分类",
+      "icon": "linecons-star",
+      "subCategories": [],
+      "items": []
+    }
+  ]
 }
